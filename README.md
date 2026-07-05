@@ -26,6 +26,7 @@ Backend
 
 Frontend
 - Vue.js
+- Angular
 - PrimeVue
 
 Database
