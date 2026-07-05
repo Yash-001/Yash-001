@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Ranjan
 
-<!--
-**Yash-001/Yash-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Enterprise Software & AI Consultant
 
-Here are some ideas to get you started:
+I help businesses build, modernize, and enhance enterprise applications using Java, Spring Boot, Vue.js, and practical AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Do
+
+- Enterprise Web Applications
+- Spring Boot REST APIs
+- Legacy Application Modernization
+- AI Integration
+- Business Automation
+- Technical Consulting
+
+---
+
+### Tech Stack
+
+Backend
+- Java 21
+- Spring Boot
+- Spring Security
+
+Frontend
+- Vue.js
+- PrimeVue
+
+Database
+- Oracle
+- PostgreSQL
+
+Tools
+- Git
+- Docker
+- Maven
+
+Currently Learning
+- Enterprise AI
+- RAG
+- AWS
+- AI Agents
+
+---
+
+### Current Goal
+
+Helping businesses modernize enterprise software with AI.
+
+---
+
+Let's connect on LinkedIn!
